@@ -1,5 +1,7 @@
 # Climbing Stairs
 
+> 🤖 **Automation Note:** This solution code was authored by **Unmesh**. The repository creation, AI explanation, and GitHub syncing were fully automated using LeetSync. For details on how this repository was generated, see [Automation.md](Automation.md).
+
 **Difficulty:** Easy | **Tags:** Math, Dynamic Programming, Memoization  
 **LeetCode Link:** https://leetcode.com/problems/climbing-stairs/
 
@@ -61,4 +63,4 @@ class Solution:
 ```
 
 ---
-*Synced automatically by [LeetSync](https://github.com) on 2026-09-14.*
+*Authored by **Unmesh** • Synced automatically by [LeetSync](https://github.com) on 2026-09-14.*

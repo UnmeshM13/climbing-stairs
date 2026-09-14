@@ -7,4 +7,10 @@ class Solution:
         if n == 2:
             return 2
 
-        return self.climbStairs(n - 1) + self.climbStairs(n - 2)
+        a = 1
+        b = 2
+
+        for i in range(3, n + 1):
+            a, b = b, a + b
+
+        return b
